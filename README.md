@@ -1,4 +1,4 @@
-# Textmining_NPA-reports
+# Predicting cognitive tests scores for patients with primary braintumors by using sentence embedding on neuropsychologists’ reports
 
 ## Summary
 
