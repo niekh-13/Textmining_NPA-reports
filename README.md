@@ -49,3 +49,22 @@ python3 LARS_socio+mpnet.py
 python3 final_lars.py
 ```
 ## Patients inclussion
+<img src="./figures/Minor 1.png">
+
+*Fig 1. Flow chart of patient inclusion, allocation, analysis and validation.*
+
+## Authors ##
+### Authors: ###
+- Niek Huijsmans
+- Sander Boelders
+- Karin Gehring
+
+### Contributers: ###
+- Sander Boelders
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+
