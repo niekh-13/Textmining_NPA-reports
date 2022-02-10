@@ -49,7 +49,7 @@ python3 LARS_socio+mpnet.py
 python3 final_lars.py
 ```
 ## Patients inclussion
-<img src="./figures/Minor 1.png">
+<img src="./figures/Minor intern.png">
 
 *Fig 1. Flow chart of patient inclusion, allocation, analysis and validation.*
 
